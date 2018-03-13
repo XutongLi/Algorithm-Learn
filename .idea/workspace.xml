@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee174313-5d1a-448f-98c9-275035665af1" name="Default" comment="" />
+    <list default="true" id="ee174313-5d1a-448f-98c9-275035665af1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMP.java" afterPath="$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMP.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +19,18 @@
       <file leaf-file-name="KMP.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="274">
+              <caret line="25" column="59" lean-forward="false" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KMPTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMPTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -26,17 +39,17 @@
       <file leaf-file-name="BruteForce.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce/BruteForce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="412">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="21" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExplicitBackup.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ExplicitBackup.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce/ExplicitBackup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
+            <state relative-caret-position="458">
               <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
               <folding />
             </state>
@@ -52,6 +65,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -60,6 +76,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMP.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce/BruteForce.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMPTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce/ExplicitBackup.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
@@ -67,6 +84,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce/BruteForce.java" />
         <option value="$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce/ExplicitBackup.java" />
+        <option value="$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMPTest.java" />
+        <option value="$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMP.java" />
       </list>
     </option>
   </component>
@@ -76,6 +95,7 @@
     <option name="width" value="1938" />
     <option name="height" value="1048" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -122,6 +142,10 @@
               <option name="myItemId" value="S5_3_SubstringSearch" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="S5_3_3_KMP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -150,6 +174,9 @@
       <pane id="Scratches" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -162,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExplicitBackup">
+  <component name="RunManager" selected="Application.KMPTest">
     <configuration default="false" name="BruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -191,6 +218,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="S5_String.S5_3_SubstringSearch.S5_3_2_BruteForce.ExplicitBackup" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithm-Learn" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="KMPTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="S5_String.S5_3_SubstringSearch.S5_3_3_KMP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="S5_String.S5_3_SubstringSearch.S5_3_3_KMP.KMPTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -407,14 +454,16 @@
       <listeners />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.BruteForce" />
       <item index="1" class="java.lang.String" itemvalue="Application.ExplicitBackup" />
+      <item index="2" class="java.lang.String" itemvalue="Application.KMPTest" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.ExplicitBackup" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BruteForce" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.KMPTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ExplicitBackup" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BruteForce" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +481,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -468,6 +517,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -477,26 +531,34 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMP.java">
+    <entry file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce/ExplicitBackup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="458">
+          <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce/BruteForce.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="412">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="21" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce/ExplicitBackup.java">
+    <entry file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+        <state relative-caret-position="274">
+          <caret line="25" column="59" lean-forward="false" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMPTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
           <folding />
         </state>
       </provider>
