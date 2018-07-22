@@ -1,5 +1,6 @@
 package S3_Searching.S3_1_SymbolTables.S3_1_5_BinarySearch;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 /**
@@ -15,6 +16,7 @@ public class BinarySearch {
         for (int i = 0; i < n; i++) {
             integer[i] = in.nextInt();
         }
+        Arrays.sort(integer);
         System.out.println("Please input the key");
         int key = in.nextInt();
         int index = binarySearch(integer, n, key);
@@ -28,7 +30,7 @@ public class BinarySearch {
 
     public static int binarySearch (int[] integer, int n, int key) {
         int low = 0;
-        int high = n-1;
+        int high = n - 1;
         while (low <= high) {
             int mid = (low + high) / 2;
             if (key < integer[mid]) {
