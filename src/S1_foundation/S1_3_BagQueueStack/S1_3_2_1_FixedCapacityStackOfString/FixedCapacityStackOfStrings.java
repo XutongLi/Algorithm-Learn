@@ -1,4 +1,4 @@
-package S1_foundation.S1_3_BagQueueStack.S1_3_2_1_FixedCapacityStack;
+package S1_foundation.S1_3_BagQueueStack.S1_3_2_1_FixedCapacityStackOfString;
 
 /**
  * Created by Brian Lee on 2018/7/30.
