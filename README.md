@@ -1,3 +1,3 @@
 # **Algorithm-Learn**
 
-Code while **learning Algorithm(Sedgewick)** and other **practice**.
+Code for **learning Algorithm(Sedgewick)** and other **practice**.
