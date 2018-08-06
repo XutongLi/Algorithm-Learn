@@ -8,14 +8,15 @@ public class Main {
     /**
      * 闰年被定义为能被4整除的年份，但是能被100整除而不能被400整除的年是例外，它们不是闰年。闰年的2月份有29天。
      */
-    public static int isLeap(int year) {
-        if (year % 100 == 0 && year % 400 != 0)
-            return 0;
+    public static boolean isLeap(int year) {
+        if (year % 100 == 0 && year % 400 != 0) {
+            return false;
+        }
         else if (year % 4 == 0) {
-            return 1;
+            return true;
         }
         else {
-            return 0;
+            return false;
         }
     }
     public static int daysInMonth(int year, int month) {
@@ -23,16 +24,26 @@ public class Main {
         if (month != 2) {
             return days[month - 1];
         }
+        else if (isLeap(year)){
+            return 29;
+        }
         else {
-            return days[1] + isLeap(year);
+            return 28;
         }
     }
     public static int daysInYear(int year, int month, int day) {
         int days = day;
-        for(int y = 1;y < year; y ++)
-            days += 365 + isLeap(y);
-        for(int m = 1;m < month; m ++)
+        for(int y = 1; y < year; y ++) {
+            if (isLeap(y)) {
+                days += 366;
+            }
+            else {
+                days += 365;
+            }
+        }
+        for(int m = 1; m < month; m ++) {
             days += daysInMonth(year, m);
+        }
         return days;
     }
 
