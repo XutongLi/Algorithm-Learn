@@ -1,4 +1,5 @@
 package S1_foundation.S1_3_BagQueueStack.S1_3_2_5_ResizingArrayStack;
+import java.util.Iterator;
 import java.util.Scanner;
 
 /**
@@ -20,5 +21,11 @@ public class ResizingArrayStackTest {
             }
         }
         System.out.println("\n" + s.size() + " left on stack");
+        Iterator<String> i = s.iterator();
+        while (i.hasNext())
+            System.out.println(i.next());
+
+        for (String st : s)
+            System.out.println(st);
     }
 }
