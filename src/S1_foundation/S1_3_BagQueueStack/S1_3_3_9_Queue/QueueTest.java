@@ -1,4 +1,4 @@
-package S1_foundation.S1_3_BagQueueStack.S1_3_3_8_Stack;
+package S1_foundation.S1_3_BagQueueStack.S1_3_3_9_Queue;
 
 import java.util.Iterator;
 import java.util.Scanner;
@@ -6,19 +6,19 @@ import java.util.Scanner;
 /**
  * Created by Brian Lee on 2018/7/30.
  */
-public class StackTest {
+public class QueueTest {
     public static void main(String[] args) {
-        Stack<String> s = new Stack<>();
+        Queue<String> s = new Queue<>();
         Scanner in = new Scanner(System.in);
         String str = in.nextLine();
         String strArray[] = str.split(" ");
         for (int i = 0; i < strArray.length; i++) {
             String ch = strArray[i];
             if (!ch.equals("-")) {
-                s.push(ch);
+                s.enqueue(ch);
             }
             else if (!s.isEmpty()) {
-                System.out.printf(s.pop() + " ");
+                System.out.printf(s.dequeue() + " ");
             }
         }
         System.out.println("\n" + s.size() + " left on stack");
