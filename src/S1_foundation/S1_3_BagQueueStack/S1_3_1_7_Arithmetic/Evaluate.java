@@ -1,4 +1,4 @@
-package S1_foundation.S1_3_BagQueueStack.S1_3_1_7_Arithmetic;
+package S1_Foundation.S1_3_BagQueueStack.S1_3_1_7_Arithmetic;
 
 
 import java.util.Scanner;

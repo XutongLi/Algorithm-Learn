@@ -1,4 +1,4 @@
-package S1_foundation.S1_3_BagQueueStack.S1_3_2_1_FixedCapacityStackOfString;
+package S1_Foundation.S1_3_BagQueueStack.S1_3_2_1_FixedCapacityStackOfString;
 
 import java.util.Scanner;
 
