@@ -1,5 +1,4 @@
 package S2_Sorting.S2_1_3_Insertion_Sort;
-
 import java.util.Scanner;
 
 /**
