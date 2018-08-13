@@ -1,5 +1,4 @@
 package S2_Sorting.Others_Bubble_Sort;
-
 import java.util.Scanner;
 
 /**
