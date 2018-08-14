@@ -16,16 +16,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Bag.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_10_Bag/Bag.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Algorithm-Learn.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithm-Learn.iml">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,18 +69,28 @@
       <file leaf-file-name="Insertion.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_1_3_Insertion_Sort/Insertion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+            <state relative-caret-position="757">
+              <caret line="46" column="5" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bubble.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Bubble.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/S2_Sorting/Others_Bubble_Sort/Bubble.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="414">
+              <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShellSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_1_6_ShellSort/ShellSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -150,6 +150,7 @@
     <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_2_2_FixedCapacityStack/FixedCapacityStackTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_2_5_ResizingArrayStack/ResizingArrayStack.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_1_2_Selection_Sort/Selection.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_1_6_ShellSort/ShellSort.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_10_Bag/BagTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce/BruteForce.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_8_Stack/Stack.java" root0="SKIP_INSPECTION" />
@@ -201,6 +202,7 @@
         <option value="$PROJECT_DIR$/src/S2_Sorting/S2_1_2_Selection_Sort/Selection.java" />
         <option value="$PROJECT_DIR$/src/S2_Sorting/S2_1_3_Insertion_Sort/Insertion.java" />
         <option value="$PROJECT_DIR$/src/S2_Sorting/Others_Bubble_Sort/Bubble.java" />
+        <option value="$PROJECT_DIR$/src/S2_Sorting/S2_1_6_ShellSort/ShellSort.java" />
       </list>
     </option>
   </component>
@@ -315,6 +317,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="S2_1_6_ShellSort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm-Learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm-Learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="S2_Sorting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="S2_1_3_Insertion_Sort" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -406,27 +430,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Bubble">
-    <configuration default="false" name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="S1_Foundation.S1_3_BagQueueStack.S1_3_3_9_Queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="S1_Foundation.S1_3_BagQueueStack.S1_3_3_9_Queue.QueueTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm-Learn" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.ShellSort">
     <configuration default="false" name="BagTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -495,6 +499,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="S2_Sorting.Others_Bubble_Sort.Bubble" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithm-Learn" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="S2_Sorting.S2_1_6_ShellSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="S2_Sorting.S2_1_6_ShellSort.ShellSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -725,19 +749,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.QueueTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.BagTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Selection" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Insertion" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Bubble" />
+      <item index="0" class="java.lang.String" itemvalue="Application.BagTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Selection" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Insertion" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Bubble" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ShellSort" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Bubble" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Insertion" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Selection" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BagTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.QueueTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ShellSort" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Bubble" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Insertion" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Selection" />
+        <item index="4" class="java.lang.String" itemvalue="Application.BagTest" />
       </list>
     </recent_temporary>
   </component>
@@ -755,7 +779,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -807,14 +831,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithm-Learn.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMPTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -1150,18 +1166,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_1_3_Insertion_Sort/Insertion.java">
+    <entry file="file://$PROJECT_DIR$/src/S2_Sorting/Others_Bubble_Sort/Bubble.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="414">
+          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S2_Sorting/Others_Bubble_Sort/Bubble.java">
+    <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_1_3_Insertion_Sort/Insertion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="757">
+          <caret line="46" column="5" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_1_6_ShellSort/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
           <folding />
         </state>
       </provider>
