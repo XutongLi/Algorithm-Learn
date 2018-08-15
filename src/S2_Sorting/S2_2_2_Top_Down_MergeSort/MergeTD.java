@@ -7,7 +7,7 @@ import java.util.Scanner;
  */
 public class MergeTD {
     private static Comparable[] aux;    //辅助数组
-    
+
     public static void sort(Comparable[] a) {
         aux = new Comparable[a.length];
         sort(a, 0, a.length - 1);
@@ -19,7 +19,8 @@ public class MergeTD {
         int mid = (lo + hi) / 2;
         sort(a, lo, mid);
         sort(a, mid + 1, hi);
-        merge(a, lo, mid, hi);
+        if (less(a[mid + 1], a[mid]))
+            merge(a, lo, mid, hi);
     }
 
     //将a[lo..mid]与a[mid+1..hi]归并
