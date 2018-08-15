@@ -29,6 +29,23 @@ public class Bubble {
         }
     }
 
+    public static void sort3(Comparable[] a) {
+        int N = a.length;
+        boolean isExch = true;
+        int tail = N, temp = N;
+        for (int i = 0; i < N && isExch; i++) {
+            isExch = false;
+            for (int j = 1; j < tail; j++) {
+                if (less(a[j], a[j - 1])) {
+                    exch(a, j, j - 1);
+                    isExch = true;
+                    temp = j;
+                }
+            }
+            tail = temp;
+        }
+    }
+
     private static boolean less(Comparable v, Comparable w) {
         return v.compareTo(w) < 0;
     }
@@ -58,7 +75,8 @@ public class Bubble {
         String str = in.nextLine();
         String[] a = str.split(" ");
 //        sort(a);
-        sort2(a);
+//        sort2(a);
+        sort3(a);
         assert isSorted(a);
         show(a);
     }
