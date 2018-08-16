@@ -1,4 +1,4 @@
-package S2_Sorting.S2_2_3_MergeBU;
+package S2_Sorting.S2_2_3_Bottom_Up_Merge;
 
 import java.util.Scanner;
 

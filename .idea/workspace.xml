@@ -107,7 +107,7 @@
         </entry>
       </file>
       <file leaf-file-name="MergeBU.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_2_3_MergeBU/MergeBU.java">
+        <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_2_3_Bottom_Up_Merge/MergeBU.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="15" column="73" lean-forward="false" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
@@ -145,7 +145,7 @@
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_2_2_Top_Down_MergeSort/MergeTD.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_9_Queue/Queue.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_9_Queue/QueueTest.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_2_3_MergeBU/MergeBU.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_2_3_Bottom_Up_Merge/MergeBU.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_10_Bag/Bag.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_1_7_Arithmetic/Evaluate.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Others/DaysBetweenTwoDays/Main.java" root0="SKIP_INSPECTION" />
@@ -197,6 +197,7 @@
         <option value="$PROJECT_DIR$/src/S2_Sorting/Others_Bubble_Sort/Bubble.java" />
         <option value="$PROJECT_DIR$/src/S2_Sorting/S2_2_2_Top_Down_MergeSort/MergeTD.java" />
         <option value="$PROJECT_DIR$/src/S2_Sorting/S2_2_3_MergeBU/MergeBU.java" />
+        <option value="$PROJECT_DIR$/src/S2_Sorting/S2_2_3_Bottom_Up_Merge/MergeBU.java" />
       </list>
     </option>
   </component>
@@ -313,7 +314,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="S2_2_3_MergeBU" />
+              <option name="myItemId" value="S2_2_3_Bottom_Up_Merge" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -552,11 +553,11 @@
     <configuration default="false" name="MergeBU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="S2_Sorting.S2_2_3_MergeBU.*" />
+          <option name="PATTERN" value="S2_Sorting.S2_2_3_Bottom_Up_Merge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="S2_Sorting.S2_2_3_MergeBU.MergeBU" />
+      <option name="MAIN_CLASS_NAME" value="S2_Sorting.S2_2_3_Bottom_Up_Merge.MergeBU" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1221,7 +1222,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_2_3_MergeBU/MergeBU.java">
+    <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_2_3_Bottom_Up_Merge/MergeBU.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" column="73" lean-forward="false" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
