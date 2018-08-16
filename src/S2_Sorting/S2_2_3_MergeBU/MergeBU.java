@@ -1,26 +1,21 @@
-package S2_Sorting.S2_2_2_Top_Down_MergeSort;
+package S2_Sorting.S2_2_3_MergeBU;
 
 import java.util.Scanner;
 
 /**
- * Created by Brian Lee on 2018/8/15.
+ * Created by Brian Lee on 2018/8/16.
  */
-public class MergeTD {
+public class MergeBU {
     private static Comparable[] aux;    //辅助数组
 
     public static void sort(Comparable[] a) {
-        aux = new Comparable[a.length];
-        sort(a, 0, a.length - 1);
-    }
-
-    public static void sort(Comparable[] a, int lo, int hi) {
-        if (lo >= hi)
-            return;
-        int mid = (lo + hi) / 2;
-        sort(a, lo, mid);
-        sort(a, mid + 1, hi);
-        if (less(a[mid + 1], a[mid]))
-            merge(a, lo, mid, hi);
+        int N = a.length;
+        aux = new Comparable[N];
+        for (int sz = 1; sz < N; sz += sz) {
+            for (int lo = 0; lo < N; lo += 2 * sz) {
+                merge(a, lo, lo + sz - 1, Math.min(lo + 2 * sz - 1, N - 1));
+            }
+        }
     }
 
     //将a[lo..mid]与a[mid+1..hi]归并
