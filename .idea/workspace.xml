@@ -26,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinarySearch.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BinarySearch.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+            <state relative-caret-position="437">
+              <caret line="58" column="64" lean-forward="true" selection-start-line="58" selection-start-column="64" selection-end-line="58" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -106,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeBU.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MergeBU.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_2_3_Bottom_Up_Merge/MergeBU.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="73" lean-forward="false" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+            <state relative-caret-position="414">
+              <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -170,7 +170,6 @@
         <option value="$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMP.java" />
         <option value="$PROJECT_DIR$/src/S1_foundation/S1_1_6_1_NewtonMethod/newtonMethodSqrt.java" />
         <option value="$PROJECT_DIR$/src/S1_foundation/S1_1_6_1_NewtonMethod/NewtonMethodSqrt.java" />
-        <option value="$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/S1_foundation/S1_2_2_4_In_And_Out/InAndOut.java" />
         <option value="$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/BagQueueStack.java" />
         <option value="$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/Bag.java" />
@@ -198,6 +197,7 @@
         <option value="$PROJECT_DIR$/src/S2_Sorting/S2_2_2_Top_Down_MergeSort/MergeTD.java" />
         <option value="$PROJECT_DIR$/src/S2_Sorting/S2_2_3_MergeBU/MergeBU.java" />
         <option value="$PROJECT_DIR$/src/S2_Sorting/S2_2_3_Bottom_Up_Merge/MergeBU.java" />
+        <option value="$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch/BinarySearch.java" />
       </list>
     </option>
   </component>
@@ -469,27 +469,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeBU">
-    <configuration default="false" name="Insertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="S2_Sorting.S2_1_3_Insertion_Sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="S2_Sorting.S2_1_3_Insertion_Sort.Insertion" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm-Learn" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.BinarySearch">
     <configuration default="false" name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -558,6 +538,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="S2_Sorting.S2_2_3_Bottom_Up_Merge.MergeBU" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithm-Learn" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="S3_Searching.S3_1_SymbolTables.S3_1_5_BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="S3_Searching.S3_1_SymbolTables.S3_1_5_BinarySearch.BinarySearch" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -788,19 +788,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Insertion" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Bubble" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ShellSort" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MergeTD" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MergeBU" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Bubble" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ShellSort" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MergeTD" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MergeBU" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BinarySearch" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MergeBU" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MergeTD" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Bubble" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ShellSort" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Insertion" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BinarySearch" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MergeBU" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MergeTD" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Bubble" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ShellSort" />
       </list>
     </recent_temporary>
   </component>
@@ -830,7 +830,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32601535" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32601535" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1166,14 +1166,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_1_1_SortExample/Example.java" />
-    <entry file="file://$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_1_2_Selection_Sort/Selection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1219">
@@ -1224,8 +1216,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_2_3_Bottom_Up_Merge/MergeBU.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="73" lean-forward="false" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+        <state relative-caret-position="414">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="58" column="64" lean-forward="true" selection-start-line="58" selection-start-column="64" selection-end-line="58" selection-end-column="64" />
           <folding />
         </state>
       </provider>

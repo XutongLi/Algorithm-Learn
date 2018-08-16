@@ -19,7 +19,8 @@ public class BinarySearch {
         Arrays.sort(integer);
         System.out.println("Please input the key");
         int key = in.nextInt();
-        int index = binarySearch(integer, n, key);
+//        int index = binarySearch(integer, n, key);
+        int index = binarySearchRecur(integer, key, 0, integer.length - 1);
         if (index == -1) {
             System.out.println("The key is not in the integers");
         }
@@ -44,5 +45,17 @@ public class BinarySearch {
             }
         }
         return -1;  //未查找到
+    }
+
+    public static int binarySearchRecur (int[] integer,  int key, int lo, int hi) {
+        if (lo > hi)
+            return -1;
+        int mid = (lo + hi) / 2;
+        if (integer[mid] == key)
+            return mid;
+        else if (integer[mid] > key)
+            return binarySearchRecur(integer, key, 0, mid - 1);
+        else
+            return binarySearchRecur(integer, key, mid + 1, hi);
     }
 }
