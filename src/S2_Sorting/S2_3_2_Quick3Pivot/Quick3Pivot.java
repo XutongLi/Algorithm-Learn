@@ -23,7 +23,7 @@ public class Quick3Pivot {
         sort(a, j + 1, hi);
     }
 
-    // return the index of the median element among a[i], a[j], and a[k]
+    //返回a[i] a[j] a[k]中位数index
     private static int mid3Pivot(Comparable[] a, int i, int j, int k) {
         if (less(a[i], a[j])) {
             if (less(a[j], a[k]))  //ai<aj<ak
