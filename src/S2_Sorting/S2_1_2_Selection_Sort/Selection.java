@@ -43,13 +43,13 @@ public class Selection {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-//        int num = in.nextInt();
-//        int[] a = new int[num];
-//        for (int i = 0; i < num; i++) {
-//            a[i] = in.nextInt();
-//        }
-        String str = in.nextLine();
-        String[] a = str.split(" ");
+        int num = in.nextInt();
+        Integer[] a = new Integer[num];
+        for (int i = 0; i < num; i++) {
+            a[i] = in.nextInt();
+        }
+//        String str = in.nextLine();
+//        String[] a = str.split(" ");
         sort(a);
         assert isSorted(a);
         show(a);
