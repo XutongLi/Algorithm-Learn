@@ -44,6 +44,8 @@ Code for **learning Algorithm(Sedgewick)** and other **practice**.
 
 [最大优先队列](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S2_Sorting/S2_4_4_2_MaxPriorityQueue)
 
+[最小索引优先队列](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S2_Sorting/S2_4_4_6_IndexMinPQ) 
+
 ### S3 Searching
 
 [二分搜索](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch) 
