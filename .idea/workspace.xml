@@ -39,21 +39,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1242">
-                <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BinarySearch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,8 +80,8 @@
       <file leaf-file-name="MaxPQ.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_4_2_MaxPriorityQueue/MaxPQ.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+            <state relative-caret-position="460">
+              <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
               <folding>
                 <element signature="e#338#339#0" expanded="true" />
                 <element signature="e#367#368#0" expanded="true" />
@@ -108,35 +93,55 @@
       <file leaf-file-name="Quick3Way.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_3_3_QuickSort3Way/Quick3Way.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-554">
+            <state relative-caret-position="-278">
               <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BottomM.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BottomM.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_4_2_MaxPriorityQueue/BottomM.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="30" column="56" lean-forward="false" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
+            <state relative-caret-position="435">
+              <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#533#542#0" expanded="true" />
-                <element signature="e#767#776#0" expanded="true" />
+                <element signature="e#806#815#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Insertion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_1_3_Insertion_Sort/Insertion.java">
+      <file leaf-file-name="IndexMinPQTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMinPQ/IndexMinPQTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="529">
+              <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexMinPQ.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMinPQ/IndexMinPQ.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-255">
+              <caret line="29" column="41" lean-forward="false" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
               <folding>
-                <element signature="e#427#428#0" expanded="false" />
-                <element signature="e#468#469#0" expanded="false" />
+                <element signature="e#578#579#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#726#727#0" expanded="true" />
+                <element signature="e#1047#1048#0" expanded="true" />
+                <element signature="e#1081#1082#0" expanded="true" />
+                <element signature="e#1295#1296#0" expanded="true" />
+                <element signature="e#1323#1324#0" expanded="true" />
+                <element signature="e#1638#1639#0" expanded="true" />
+                <element signature="e#1699#1700#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -184,6 +189,7 @@
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_3_3_QuickSort3Way/Quick3Way.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_1_6_1_NewtonMethod/NewtonMethodSqrt.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/Others_Bubble_Sort/Bubble.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMinPQ/IndexMinPQ.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_2_1_FixedCapacityStackOfString/FixedCapacityStackOfStrings.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_2_1_FixedCapacityStackOfString/FixedCapacityStringTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_1_3_Insertion_Sort/Insertion.java" root0="SKIP_INSPECTION" />
@@ -233,8 +239,15 @@
         <option value="$PROJECT_DIR$/src/S2_Sorting/S2_1_6_ShellSort/ShellSort.java" />
         <option value="$PROJECT_DIR$/src/S2_Sorting/S2_1_2_Selection_Sort/Selection.java" />
         <option value="$PROJECT_DIR$/src/S2_Sorting/S2_4_4_2_MaxPriorityQueue/MaxPQTest.java" />
+        <option value="$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMaxPQ/IndexMinPQ.java" />
+        <option value="$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMaxPQ/IndexMaxPQ.java" />
+        <option value="$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMinPQ/IndexMaxPQ.java" />
+        <option value="$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMinPQ/BottomM.java" />
         <option value="$PROJECT_DIR$/src/S2_Sorting/S2_4_4_2_MaxPriorityQueue/MaxPQ.java" />
         <option value="$PROJECT_DIR$/src/S2_Sorting/S2_4_4_2_MaxPriorityQueue/BottomM.java" />
+        <option value="$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMinPQ/TopM.java" />
+        <option value="$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMinPQ/IndexMinPQ.java" />
+        <option value="$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMinPQ/IndexMinPQTest.java" />
       </list>
     </option>
   </component>
@@ -307,6 +320,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="S2_4_4_6_IndexMinPQ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm-Learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm-Learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="S2_Sorting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="S2_4_4_2_MaxPriorityQueue" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -338,6 +373,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="S2_Sorting.S2_4_4_6_IndexMinPQ" />
       <recent name="S1_foundation.S1_3_BagQueueStack.S1_3_3_10_Bag" />
       <recent name="S1_foundation.S1_3_BagQueueStack.S1_3_3_9_Queue" />
       <recent name="S1_foundation.S1_3_BagQueueStack.S1_3_3_8_Stack" />
@@ -356,27 +392,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BottomM">
-    <configuration default="false" name="Quick3Way" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="S2_Sorting.S2_3_3_QuickSort3Way.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="S2_Sorting.S2_3_3_QuickSort3Way.Quick3Way" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm-Learn" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager">
     <configuration default="false" name="Quick3Pivot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -445,6 +461,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="S2_Sorting.S2_4_4_2_MaxPriorityQueue.BottomM" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithm-Learn" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="IndexMinPQTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="S2_Sorting.S2_4_4_6_IndexMinPQ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="S2_Sorting.S2_4_4_6_IndexMinPQ.IndexMinPQTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -675,19 +711,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Quick3Way" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Quick3Pivot" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ShellSort" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Selection" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BottomM" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Quick3Pivot" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ShellSort" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Selection" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BottomM" />
+      <item index="4" class="java.lang.String" itemvalue="Application.IndexMinPQTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BottomM" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Selection" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ShellSort" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Quick3Pivot" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Quick3Way" />
+        <item index="0" class="java.lang.String" itemvalue="Application.IndexMinPQTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BottomM" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Selection" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ShellSort" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Quick3Pivot" />
       </list>
     </recent_temporary>
   </component>
@@ -718,7 +754,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32601535" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32601535" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -757,20 +793,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce/BruteForce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce/ExplicitBackup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="989">
@@ -1040,7 +1062,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1242">
-            <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+            <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
@@ -1107,16 +1129,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_3_3_QuickSort3Way/Quick3Way.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-554">
+        <state relative-caret-position="-278">
           <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_4_2_MaxPriorityQueue/BottomM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#533#542#0" expanded="true" />
+            <element signature="e#806#815#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMinPQ/IndexMinPQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="29" column="41" lean-forward="false" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+          <folding>
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#1047#1048#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1295#1296#0" expanded="true" />
+            <element signature="e#1323#1324#0" expanded="true" />
+            <element signature="e#1638#1639#0" expanded="true" />
+            <element signature="e#1699#1700#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_4_2_MaxPriorityQueue/MaxPQ.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        <state relative-caret-position="460">
+          <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
           <folding>
             <element signature="e#338#339#0" expanded="true" />
             <element signature="e#367#368#0" expanded="true" />
@@ -1124,15 +1179,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_4_2_MaxPriorityQueue/BottomM.java">
+    <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMinPQ/IndexMinPQTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="30" column="56" lean-forward="false" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#533#542#0" expanded="true" />
-            <element signature="e#767#776#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="529">
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>

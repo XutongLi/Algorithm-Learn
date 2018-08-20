@@ -16,10 +16,11 @@ public class BottomM {
         int M = in.nextInt();
         System.out.println("Input N");
         int N = in.nextInt();
-        MaxPQ<Integer> pq = new MaxPQ<Integer>(M + 1);
+        MaxPQ<Integer> pq = new MaxPQ<Integer>(M + 1);  //多一个用于重排和删除
         for (int i = 0; i < N; i++) {
             Integer num = in.nextInt();
             pq.insert(num);
+            //pq.show();
             if (pq.size() > M)
                 pq.delMax();
         }

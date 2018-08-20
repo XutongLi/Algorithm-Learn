@@ -27,6 +27,12 @@ public class MaxPQ<Key extends Comparable<Key>> {
         sink(1);            //恢复堆的有序性
         return max;
     }
+    public void show() {
+        for (int i = 1; i <= N; i++) {
+            System.out.printf(pq[i] + " ");
+        }
+        System.out.println();
+    }
     private boolean less(int i, int j) {
         return pq[i].compareTo(pq[j]) < 0;
     }
