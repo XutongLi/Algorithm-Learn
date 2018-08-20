@@ -42,9 +42,11 @@ Code for **learning Algorithm(Sedgewick)** and other **practice**.
 
 [三向切分快速排序](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S2_Sorting/S2_3_3_QuickSort3Way)
 
+[优先队列](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S2_Sorting/S2_4_4_2_MaxPriorityQueue)
+
 ### S3 Searching
 
-[二分搜索](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch)
+[二分搜索](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch) 
 
 ### S5 String
 
