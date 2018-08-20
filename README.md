@@ -58,3 +58,6 @@ Code for **learning Algorithm(Sedgewick)** and other **practice**.
 
 [KMP字符串查找算法算法](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP)
 
+### Others
+
+[计算两个日期间的天数](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/Others/DaysBetweenTwoDays) 
