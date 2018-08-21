@@ -48,6 +48,8 @@ Code for **learning Algorithm(Sedgewick)** and other **practice**.
 
 [堆排序](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S2_Sorting/S2_4_5_HeapSort) 
 
+[TopK问题](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S2_Sorting/Others_TopK) 
+
 ### S3 Searching
 
 [二分搜索](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch) 
