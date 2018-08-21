@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 /**
  * Created by Brian Lee on 2018/8/20.
+ * 大根堆
+ * 升序排列
  */
 public class HeapSort {
     public static void sort(Comparable[] a) {
