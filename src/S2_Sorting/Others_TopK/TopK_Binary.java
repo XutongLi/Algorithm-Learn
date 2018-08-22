@@ -11,12 +11,13 @@ import java.util.Scanner;
  */
 public class TopK_Binary {
     public static Comparable select(Comparable[] a, int k) {
+        k --;
         shuffle(a);
         int lo = 0, hi = a.length - 1;
         while (hi > lo) {
             int j = partition(a, lo, hi);
             if (j == k)
-                return a[k];
+                return a[j];
             else if (j > k)
                 hi = j - 1;
             else
@@ -26,24 +27,24 @@ public class TopK_Binary {
     }
 
     public static int partition(Comparable[] a, int lo, int hi) {
-    int i = lo, j = hi + 1;
-    Comparable v = a[lo];  //pivot
-    while (true) {
-        while (less(v, a[++i])){
-            if (i == hi)
+        int i = lo, j = hi + 1;
+        Comparable v = a[lo];  //pivot
+        while (true) {
+            while (less(v, a[++i])){
+                if (i == hi)
+                    break;
+            }
+            while (less(a[--j], v)) {
+                if (j == lo)
+                    break;
+            }
+            if (i >= j)
                 break;
+            exch(a, i, j);
         }
-        while (less(a[--j], v)) {
-            if (j == lo)
-                break;
-        }
-        if (i >= j)
-            break;
-        exch(a, i, j);
+        exch(a, lo, j);
+        return j;
     }
-    exch(a, lo, j);
-    return j;
-}
 
     private static boolean less(Comparable v, Comparable w) {
         return v.compareTo(w) < 0;
@@ -75,6 +76,6 @@ public class TopK_Binary {
         String str = in.nextLine();
         String[] a = str.split(" ");
         int k = in.nextInt();
-        System.out.println(select(a, k - 1));
+        System.out.println(select(a, k));
     }
 }
