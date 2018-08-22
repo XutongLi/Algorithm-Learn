@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 /**
  * Created by Brian Lee on 2018/8/21.
+ * 找出一组长度为N元素中第K大的
+ * O(kN)
  */
 public class TopK_Selection {
     public static Comparable select(Comparable[] a, int k) {

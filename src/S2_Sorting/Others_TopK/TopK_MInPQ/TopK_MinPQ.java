@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 /**
  * Created by Brian Lee on 2018/8/21.
+ * 找出一组长度为N元素中第K大的
+ * O(Nlogk)
  */
 public class TopK_MinPQ {
     public static String select(String[] a, int k) {
