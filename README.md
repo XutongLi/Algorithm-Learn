@@ -54,7 +54,9 @@ Code for **learning Algorithm(Sedgewick)** and other **practice**.
 
 [顺序查找符号表（基于无序链表）](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S3_Searching/S3_1_SymbolTables/S3_1_4_SequentialSearchST) 
 
-[二分搜索](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch) 
+[二分查找](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch)  
+
+[基于二分查找的有序符号表](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch) 
 
 ### S5 String
 
