@@ -19,14 +19,13 @@ public class BinarySearch {
         Arrays.sort(integer);
         System.out.println("Please input the key");
         int key = in.nextInt();
-//        int index = binarySearch(integer, n, key);
-        int index = binarySearchRecur(integer, key, 0, integer.length - 1);
-        if (index == -1) {
-            System.out.println("The key is not in the integers");
-        }
-        else {
-            System.out.println("The index is: " + index);
-        }
+        int index = binarySearch(integer, n, key);
+//        int index = binarySearchRecur(integer, key, 0, integer.length - 1);
+        System.out.println(index);
+        if (integer[index] == key)
+            System.out.println("Y");
+        else
+            System.out.println("N");
     }
 
     public static int binarySearch (int[] integer, int n, int key) {
@@ -44,12 +43,12 @@ public class BinarySearch {
                 return mid; //查找到
             }
         }
-        return -1;  //未查找到
+        return low;  //未查找到，返回比其少的数量
     }
 
     public static int binarySearchRecur (int[] integer,  int key, int lo, int hi) {
         if (lo > hi)
-            return -1;
+            return lo;
         int mid = (lo + hi) / 2;
         if (integer[mid] == key)
             return mid;
