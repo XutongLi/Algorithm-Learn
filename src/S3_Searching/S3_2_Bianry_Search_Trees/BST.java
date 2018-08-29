@@ -127,4 +127,17 @@ public class BST <Key extends Comparable<Key>, Value> {
         else if (t < k) return select(x.right, k - t - 1);  //减去左子树结点数和父结点
         else    return x;
     }
+    //排名
+    public int rank(Key key) {
+        return rank(root, key);
+    }
+    private int rank(Node x, Key key) {
+        if (x == null)  return 0;
+        int cmp = key.compareTo(x.key);
+        if (cmp < 0)    return rank(x.left, key);
+        else if (cmp > 0)   return 1 + size(x.left) + rank(x.right, key);
+        else    return size(x.left);
+    }
 }
+
+
