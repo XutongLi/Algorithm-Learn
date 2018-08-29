@@ -116,4 +116,15 @@ public class BST <Key extends Comparable<Key>, Value> {
         }
         return ceiling(x.right, key);
     }
+    //选择
+    public Key select(int k) {
+        return select(root, k).key;
+    }
+    private Node select(Node x, int k) {
+        if (x == null)  return null;
+        int t = size(x.left);
+        if (t > k)  return select(x.left, k);
+        else if (t < k) return select(x.right, k - t - 1);  //减去左子树结点数和父结点
+        else    return x;
+    }
 }
