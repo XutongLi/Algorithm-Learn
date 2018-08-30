@@ -138,6 +138,46 @@ public class BST <Key extends Comparable<Key>, Value> {
         else if (cmp > 0)   return 1 + size(x.left) + rank(x.right, key);
         else    return size(x.left);
     }
+    //删除最小键结点
+    public void deleteMin() {
+        root = deleteMin(root);
+    }
+    private Node deleteMin(Node x) {
+        if (x.left == null) return x.right;
+        x.left = deleteMin(x.left);
+        x.N = size(x.left) + size(x.right) + 1;
+        return x;
+    }
+    //删除最大键结点
+    public void deleteMax() {
+        root = deleteMax(root);
+    }
+    private Node deleteMax(Node x) {
+        if (x.right == null)    return x.left;
+        x.right = deleteMin(x.right);
+        x.N = size(x.left) + size(x.right) + 1;
+        return x;
+    }
+    //删除
+    public void delete(Key key) {
+        root = delete(root, key);
+    }
+    private Node delete(Node x, Key key) {
+        if (x == null)  return null;
+        int cmp = key.compareTo(x.key);
+        if (cmp < 0)    x.left = delete(x.left, key);
+        else if (cmp > 0)   x.right = delete(x.right, key);
+        else {
+            if (x.right == null)    return x.left;
+            if (x.left == null)     return x.right;
+            Node t = x;
+            x = min(t.right);
+            x.right = deleteMin(t.right);
+            x.left = t.left;
+        }
+        x.N = size(x.left) + size(x.right) + 1;
+        return x;
+    }
 }
 
 
