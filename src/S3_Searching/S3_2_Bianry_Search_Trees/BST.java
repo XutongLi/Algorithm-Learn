@@ -1,5 +1,8 @@
 package S3_Searching.S3_2_Bianry_Search_Trees;
 
+import java.util.Queue;
+import java.util.LinkedList;
+
 /**
  * Created by Brian Lee on 2018/8/28.
  */
@@ -177,6 +180,33 @@ public class BST <Key extends Comparable<Key>, Value> {
         }
         x.N = size(x.left) + size(x.right) + 1;
         return x;
+    }
+    //遍历
+    public void print() {
+        print(root);
+    }
+    private void print(Node x) {
+        if (x == null)  return;
+        print(x.left);
+        System.out.print(x.key);
+        System.out.print(" ");
+        print(x.right);
+    }
+    public Iterable<Key> keys() {
+        return keys(min(), max());
+    }
+    public Iterable<Key> keys(Key lo, Key hi) {
+        Queue<Key> queue = new LinkedList<Key>();
+        keys(root, queue, lo, hi);
+        return queue;
+    }
+    private void keys(Node x, Queue<Key> queue, Key lo, Key hi) {
+        if (x == null)  return;
+        int cmplo = lo.compareTo(x.key);
+        int cmphi = hi.compareTo(x.key);
+        if (cmplo < 0)  keys(x.left, queue, lo, hi);
+        if (cmplo <= 0 && cmphi >= 0)   queue.offer(x.key);
+        if (cmphi > 0)  keys(x.right, queue, lo, hi);
     }
 }
 
