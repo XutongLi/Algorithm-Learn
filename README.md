@@ -58,6 +58,8 @@ Code for **learning Algorithm(Sedgewick)** and other **practice**.
 
 [基于二分查找的有序符号表](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch) 
 
+[二分查找树](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S3_Searching/S3_2_Bianry_Search_Trees) 
+
 ### S5 String
 
 [暴力字符串查找算法](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce)
