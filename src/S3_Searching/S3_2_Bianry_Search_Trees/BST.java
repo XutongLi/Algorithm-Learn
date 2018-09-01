@@ -35,6 +35,11 @@ public class BST <Key extends Comparable<Key>, Value> {
         else
             return x.N;
     }
+    public int size(Key lo, Key hi) {
+        if (lo.compareTo(hi) > 0)   return 0;
+        if (contains(hi))   return rank(hi) - rank(lo) + 1;
+        else    return rank(hi) - rank(lo);
+    }
     //查找
     public Value get(Key key) {
         return get(root, key);
@@ -107,10 +112,15 @@ public class BST <Key extends Comparable<Key>, Value> {
         x = root;
         //更新结点计数器
         while (true) {
-            x.N ++;
             int cmpa = key.compareTo(x.key);
-            if (cmpa < 0)    x = x.left;
-            else if (cmpa > 0)   x = x.right;
+            if (cmpa < 0) {
+                x.N++;
+                x = x.left;
+            }
+            else if (cmpa > 0) {
+                x.N++;
+                x = x.right;
+            }
             else    break;
         }
     }
@@ -162,7 +172,7 @@ public class BST <Key extends Comparable<Key>, Value> {
         }
         return ceiling(x.right, key);
     }
-    //选择
+    //按顺序选择
     public Key select(int k) {
         return select(root, k).key;
     }
@@ -250,6 +260,59 @@ public class BST <Key extends Comparable<Key>, Value> {
         if (cmplo < 0)  keys(x.left, queue, lo, hi);    //lo<x.key
         if (cmplo <= 0 && cmphi >= 0)   queue.offer(x.key); //lo<=x.key<=hi
         if (cmphi > 0)  keys(x.right, queue, lo, hi);   //x.key<hi
+    }
+    //高度(一个结点的树高度为0)
+    public int height() {
+        return height(root);
+    }
+    private int height(Node x) {
+        if (x == null)  return -1;
+        return 1 + Math.max(height(x.left), height(x.right));
+    }
+    //按层遍历key
+    public Iterable<Key> levelOrderKeys() {
+        Queue<Key> keys = new LinkedList<>();
+        Queue<Node> queue = new LinkedList<>();
+        queue.offer(root);
+        while (!queue.isEmpty()) {
+            Node x = queue.poll();
+            if (x == null)  continue;
+            keys.offer(x.key);
+            queue.offer(x.left);
+            queue.offer(x.right);
+        }
+        return keys;
+    }
+    //判断是否为二分查找树
+    public boolean isBST() {
+        return isBST(root, null, null);
+    }
+    private boolean isBST(Node x, Key min, Key max) {
+        if (x == null)  return true;
+        if (min != null && x.key.compareTo(min) <= 0)
+            return false;
+        if (max != null && x.key.compareTo(max) >= 0)
+            return false;
+        return isBST(x.left, min, x.key) && isBST(x.right, x.key, max);
+    }
+    //检查结点数是否正确
+    public boolean isSizeCorrect() {
+        return isSizeCorrect(root);
+    }
+    private boolean isSizeCorrect(Node x) {
+        if (x == null)  return true;
+        if (x.N != size(x.left) + size(x.right) + 1)
+            return false;
+        return isSizeCorrect(x.left) && isSizeCorrect(x.right);
+    }
+    //检查排序是否连续
+    public boolean isRankConsistent() {
+        for (int i = 0; i < size(); i++)
+            if (i != rank(select(i)))   return false;
+        for (Key key : keys())
+            if (key.compareTo(select(rank(key))) != 0)
+                return false;
+        return true;
     }
 }
 
