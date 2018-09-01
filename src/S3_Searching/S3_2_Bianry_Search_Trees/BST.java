@@ -52,6 +52,17 @@ public class BST <Key extends Comparable<Key>, Value> {
         else
             return x.val;
     }
+    //非递归查找
+    public Value get2(Key key) {
+        Node x = root;
+        while (x != null) {
+            int cmp = key.compareTo(x.key);
+            if (cmp < 0)    x = x.left;
+            else if (cmp > 0)   x = x.right;
+            else    return x.val;
+        }
+        return null;
+    }
     //插入
     public void put(Key key, Value val) {
         root = put(root, key, val);
@@ -70,6 +81,38 @@ public class BST <Key extends Comparable<Key>, Value> {
             x.val = val;
         x.N = size(x.left) + size(x.right) + 1;
         return x;
+    }
+    //非递归插入
+    public void put2(Key key, Value val) {
+        Node x = root;
+        Node t = root;
+        int cmp = 0;
+        while (x != null) {
+            cmp = key.compareTo(x.key);
+            if (cmp < 0) {
+                t = x;
+                x = x.left;
+            }
+            else if (cmp > 0) {
+                t = x;
+                x = x.right;
+            }
+            else  {
+                x.val = val;
+                return;
+            }
+        }
+        if (cmp < 0)    t.left = new Node(key, val, 1);
+        else if (cmp > 0)    t.right = new Node(key, val, 1);
+        x = root;
+        //更新结点计数器
+        while (true) {
+            x.N ++;
+            int cmpa = key.compareTo(x.key);
+            if (cmpa < 0)    x = x.left;
+            else if (cmpa > 0)   x = x.right;
+            else    break;
+        }
     }
     //找最小的键
     public Key min() {
@@ -204,9 +247,9 @@ public class BST <Key extends Comparable<Key>, Value> {
         if (x == null)  return;
         int cmplo = lo.compareTo(x.key);
         int cmphi = hi.compareTo(x.key);
-        if (cmplo < 0)  keys(x.left, queue, lo, hi);
-        if (cmplo <= 0 && cmphi >= 0)   queue.offer(x.key);
-        if (cmphi > 0)  keys(x.right, queue, lo, hi);
+        if (cmplo < 0)  keys(x.left, queue, lo, hi);    //lo<x.key
+        if (cmplo <= 0 && cmphi >= 0)   queue.offer(x.key); //lo<=x.key<=hi
+        if (cmphi > 0)  keys(x.right, queue, lo, hi);   //x.key<hi
     }
 }
 
