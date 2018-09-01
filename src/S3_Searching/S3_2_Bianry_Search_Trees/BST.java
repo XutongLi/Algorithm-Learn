@@ -305,7 +305,7 @@ public class BST <Key extends Comparable<Key>, Value> {
             return false;
         return isSizeCorrect(x.left) && isSizeCorrect(x.right);
     }
-    //检查排序是否连续
+    //检查顺序是否连续
     public boolean isRankConsistent() {
         for (int i = 0; i < size(); i++)
             if (i != rank(select(i)))   return false;
