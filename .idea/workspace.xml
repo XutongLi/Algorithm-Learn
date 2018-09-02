@@ -88,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/src/S3_Searching/S3_4_Hash_Tables/S3_4_3_Linear_Probing_Hash/LPHashTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="529">
-              <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+              <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -837,7 +837,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="951" y="0" width="977" height="1038" extended-state="0" />
+    <frame x="951" y="0" width="977" height="1038" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1273,7 +1273,7 @@
     <entry file="file://$PROJECT_DIR$/src/S3_Searching/S3_4_Hash_Tables/S3_4_3_Linear_Probing_Hash/LPHashTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
-          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
           <folding />
         </state>
       </provider>
