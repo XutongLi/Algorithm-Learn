@@ -1,4 +1,4 @@
-package S1_Foundation.S1_3_BagQueueStack.S1_3_3_10_Bag;
+package S1_foundation.S1_3_BagQueueStack.S1_3_3_10_Bag;
 
 import java.util.Iterator;
 import java.util.Scanner;

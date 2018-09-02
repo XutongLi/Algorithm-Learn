@@ -62,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinearProbingHashST.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LinearProbingHashST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/S3_Searching/S3_4_Hash_Tables/S3_4_3_Linear_Probing_Hash/LinearProbingHashST.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2047">
@@ -80,6 +80,21 @@
                 <element signature="e#759#760#0" expanded="true" />
                 <element signature="e#815#816#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_10_Bag/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -145,16 +160,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BSTTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/S3_Searching/S3_2_Bianry_Search_Trees/BSTTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="943">
-              <caret line="41" column="48" lean-forward="false" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -182,51 +187,51 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_2_2_FixedCapacityStack/FixedCapacityStack.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_2_2_FixedCapacityStack/FixedCapacityStack.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMP.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_2_2_FixedCapacityStack/FixedCapacityStackTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_2_2_FixedCapacityStack/FixedCapacityStackTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_1_2_Selection_Sort/Selection.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_1_6_ShellSort/ShellSort.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S3_Searching/S3_2_Bianry_Search_Trees/BST.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce/BruteForce.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_4_SequentialSearchST/SequentialSearchST.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_8_Stack/Stack.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_8_Stack/StackTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_8_Stack/Stack.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_8_Stack/StackTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_2_2_Top_Down_MergeSort/MergeTD.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S3_Searching/S3_4_Hash_Tables/S3_4_3_Linear_Probing_Hash/LPHashTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S3_Searching/S3_4_Hash_Tables/S3_4_3_Linear_Probing_Hash/LinearProbingHashST.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_9_Queue/Queue.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_9_Queue/QueueTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_9_Queue/Queue.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_9_Queue/QueueTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_2_3_Bottom_Up_Merge/MergeBU.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_4_SequentialSearchST/Test.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S3_Searching/S3_2_Bianry_Search_Trees/BSTTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_3_1_QuickSort/Quick.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_10_Bag/Bag.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_10_Bag/Bag.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_4_2_MaxPriorityQueue/BottomM.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/Others_TopK/TopK_MInPQ/TopK_MinPQ.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch/Test.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S3_Searching/S3_4_Hash_Tables/S3_4_2_SeparateChainingHash/SepChaHashTest.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_1_7_Arithmetic/Evaluate.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_1_7_Arithmetic/Evaluate.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S3_Searching/S3_4_Hash_Tables/S3_4_2_SeparateChainingHash/SequentialSearchST.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S3_Searching/S3_4_Hash_Tables/S3_4_2_SeparateChainingHash/SeperateChainingHashST.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Others/DaysBetweenTwoDays/Main.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_3_2_Quick3Pivot/Quick3Pivot.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_2_5_ResizingArrayStack/ResizingArrayStack.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_2_5_ResizingArrayStack/ResizingArrayStack.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_4_2_MaxPriorityQueue/MaxPQ.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_10_Bag/BagTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_10_Bag/BagTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/Others_TopK/TopK_MInPQ/MinPQ.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_3_3_QuickSort3Way/Quick3Way.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_1_6_1_NewtonMethod/NewtonMethodSqrt.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_1_6_1_NewtonMethod/NewtonMethodSqrt.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/Others_Bubble_Sort/Bubble.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMinPQ/IndexMinPQ.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_2_1_FixedCapacityStackOfString/FixedCapacityStackOfStrings.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_2_1_FixedCapacityStackOfString/FixedCapacityStringTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_2_1_FixedCapacityStackOfString/FixedCapacityStackOfStrings.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_2_1_FixedCapacityStackOfString/FixedCapacityStringTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/Others_TopK/TopK_Selection.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_1_3_Insertion_Sort/Insertion.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch/BinarySearchST.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMPTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_5_HeapSort/HeapSort.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_2_5_ResizingArrayStack/ResizingArrayStackTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_2_5_ResizingArrayStack/ResizingArrayStackTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/Others_TopK/TopK_Binary.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce/ExplicitBackup.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch/BinarySearch.java" root0="SKIP_INSPECTION" />
@@ -349,111 +354,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="S3_Searching" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="S3_4_Hash_Tables" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="S3_4_3_Linear_Probing_Hash" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm-Learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm-Learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="S3_Searching" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="S3_4_Hash_Tables" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="S3_4_2_SeparateChainingHash" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm-Learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm-Learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="S3_Searching" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="S3_2_Bianry_Search_Trees" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm-Learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm-Learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="S3_Searching" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="S3_1_SymbolTables" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm-Learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm-Learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="S3_Searching" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="S3_1_SymbolTables" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="S3_1_4_SequentialSearchST" />
+              <option name="myItemId" value="S1_foundation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -837,8 +738,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="951" y="0" width="977" height="1038" extended-state="1" />
-    <editor active="true" />
+    <frame x="951" y="0" width="977" height="1038" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -855,7 +755,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37539104" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37539104" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -889,13 +789,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jrt://F:/IDEA/jdk!/java.compiler/module-info.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://F:/IDEA/jdk/lib/src.zip!/java.compiler/javax/tools/DiagnosticListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="851">
@@ -910,56 +803,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_2_5_ResizingArrayStack/ResizingArrayStackTest.java">
+    <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_2_5_ResizingArrayStack/ResizingArrayStackTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_8_Stack/StackTest.java">
+    <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_8_Stack/StackTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_2_5_ResizingArrayStack/ResizingArrayStack.java">
+    <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_2_5_ResizingArrayStack/ResizingArrayStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_9_Queue/QueueTest.java">
+    <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_9_Queue/QueueTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_9_Queue/Queue.java">
+    <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_9_Queue/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="736">
           <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_8_Stack/Stack.java">
+    <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_8_Stack/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="897">
           <caret line="41" column="5" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_10_Bag/BagTest.java">
+    <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_10_Bag/BagTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S1_Foundation/S1_3_BagQueueStack/S1_3_3_10_Bag/Bag.java">
+    <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_10_Bag/Bag.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
@@ -973,7 +866,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S1_Foundation/S1_1_6_1_NewtonMethod/NewtonMethodSqrt.java">
+    <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_1_6_1_NewtonMethod/NewtonMethodSqrt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
@@ -1295,6 +1188,19 @@
             <element signature="e#759#760#0" expanded="true" />
             <element signature="e#815#816#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_10_Bag/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>

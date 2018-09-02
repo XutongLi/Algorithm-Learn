@@ -1,4 +1,4 @@
-package S1_Foundation.S1_1_6_1_NewtonMethod;
+package S1_foundation.S1_1_6_1_NewtonMethod;
 
 import java.util.Scanner;
 

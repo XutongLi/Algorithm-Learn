@@ -1,4 +1,4 @@
-package S1_Foundation.S1_3_BagQueueStack.S1_3_2_5_ResizingArrayStack;
+package S1_foundation.S1_3_BagQueueStack.S1_3_2_5_ResizingArrayStack;
 import java.util.Iterator;
 /**
  * Created by Brian Lee on 2018/8/7.
