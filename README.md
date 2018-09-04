@@ -64,6 +64,8 @@ Code for **learning Algorithm(Sedgewick)** and other **practice**.
 
 [基于线性探测法的散列表](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S3_Searching/S3_4_Hash_Tables/S3_4_3_Linear_Probing_Hash) 
 
+[系数矩阵](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S3_Searching/S3_5_SparseVector) 
+
 ### S5 String
 
 [暴力字符串查找算法](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce)
