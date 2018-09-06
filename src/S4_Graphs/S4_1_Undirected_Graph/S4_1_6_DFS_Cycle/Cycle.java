@@ -21,6 +21,8 @@ public class Cycle {
             if (!marked[w])
                 dfs(G, w, v);
             else if (w != u)
+                //相邻的已标记顶点不是上一个顶点
+                //说明有环
                 hasCycle = true;
         }
     }
