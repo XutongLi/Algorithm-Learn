@@ -74,6 +74,8 @@ Code for **learning Algorithm(Sedgewick)** and other **practice**.
 
 [广度优先搜索](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S4_Graphs/S4_1_Undirected_Graph/S4_1_5_Breadth_First_Search) 
 
+[深度优先搜索求连通分量](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S4_Graphs/S4_1_Undirected_Graph/S4_1_6_Connected_Components) 
+
 ### S5 String
 
 [暴力字符串查找算法](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce)
