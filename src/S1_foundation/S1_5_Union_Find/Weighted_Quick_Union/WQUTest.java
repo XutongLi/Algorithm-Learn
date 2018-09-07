@@ -1,6 +1,5 @@
-package S1_foundation.S1_5_Union_Find.Quick_Union;
+package S1_foundation.S1_5_Union_Find.Weighted_Quick_Union;
 
-import S1_foundation.S1_5_Union_Find.Quick_Find.UF;
 
 import java.util.Scanner;
 
@@ -17,11 +16,11 @@ import java.util.Scanner;
  6 1
  -1 -1
  */
-public class Quick_Find_Test {
+public class WQUTest {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int N = in.nextInt();
-        S1_foundation.S1_5_Union_Find.Quick_Find.UF uf = new UF(N);
+        WeightedQuickUnionUF uf = new WeightedQuickUnionUF(N);
         int p = in.nextInt();
         int q = in.nextInt();
         while (p != -1) {

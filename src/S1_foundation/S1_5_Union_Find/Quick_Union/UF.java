@@ -4,7 +4,7 @@ package S1_foundation.S1_5_Union_Find.Quick_Union;
  * Created by Brian Lee on 2018/9/7.
  */
 public class UF {
-    private int[] id;   //分量id，以触电作为索引
+    private int[] id;   //id[触电]=另一连通根触电（与quick_find中不同）
     private int count;  //分量数量
     public UF(int N) {
         count = N;
