@@ -22,6 +22,8 @@ Code for **learning Algorithm(Sedgewick)** and other **practice**.
 
 [队列](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_9_Queue)
 
+[并查集](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S1_foundation/S1_5_Union_Find) 
+
 ### S2 Sorting
 
 [冒泡排序](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S2_Sorting/Others_Bubble_Sort)
