@@ -23,6 +23,7 @@ public class WeightedQuickUnionUF {
         return find(p) == find(q);
     }
     private int find(int p) {
+        //跟随链接找到根结点
         while (p != id[p])  p = id[p];
         return p;
     }
