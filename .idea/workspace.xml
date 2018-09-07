@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee174313-5d1a-448f-98c9-275035665af1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMP.java" afterPath="$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMP.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMP.java" afterPath="$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMP.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,19 +26,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UF.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UF.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/Quick_Find/UF.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="586">
-              <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+            <state relative-caret-position="642">
+              <caret line="32" column="16" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="32" selection-end-column="16" />
               <folding>
                 <element signature="e#339#340#0" expanded="true" />
                 <element signature="e#367#368#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UF.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/Quick_Union/UF.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+              <folding>
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Quick_Find_Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/Quick_Union/Quick_Find_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -46,8 +65,8 @@
       <file leaf-file-name="Quick_Find_Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/Quick_Find/Quick_Find_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state relative-caret-position="230">
+              <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -56,37 +75,9 @@
       <file leaf-file-name="BST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/S3_Searching/S3_2_Bianry_Search_Trees/BST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3034">
+            <state relative-caret-position="6463">
               <caret line="316" column="1" lean-forward="false" selection-start-line="316" selection-start-column="1" selection-end-line="316" selection-end-column="1" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CC.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_1_Undirected_Graph/S4_1_6_Connected_Components/CC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="30" column="44" lean-forward="false" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
-              <folding>
-                <element signature="e#841#842#0" expanded="true" />
-                <element signature="e#887#888#0" expanded="true" />
-                <element signature="e#915#916#0" expanded="true" />
-                <element signature="e#940#941#0" expanded="true" />
-                <element signature="e#968#969#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CCTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_1_Undirected_Graph/S4_1_6_Connected_Components/CCTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -228,6 +219,7 @@
     <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/Quick_Find/Quick_Find_Test.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S5_String/S5_3_SubstringSearch/S5_3_3_KMP/KMPTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_5_HeapSort/HeapSort.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/Quick_Union/UF.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_2_5_ResizingArrayStack/ResizingArrayStackTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/Others_TopK/TopK_Binary.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch/BinarySearch.java" root0="SKIP_INSPECTION" />
@@ -236,8 +228,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/S2_Sorting/S2_4_4_2_MaxPriorityQueue/MaxPQTest.java" />
-        <option value="$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMaxPQ/IndexMinPQ.java" />
         <option value="$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMaxPQ/IndexMaxPQ.java" />
         <option value="$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMinPQ/IndexMaxPQ.java" />
         <option value="$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMinPQ/BottomM.java" />
@@ -287,6 +277,8 @@
         <option value="$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/UF.java" />
         <option value="$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/Quick_Find/Quick_Find_Test.java" />
         <option value="$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/Quick_Find/UF.java" />
+        <option value="$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/Quick_Union/UF.java" />
+        <option value="$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/Quick_Union/Quick_Find_Test.java" />
       </list>
     </option>
   </component>
@@ -311,6 +303,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -355,7 +350,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Quick_Find" />
+              <option name="myItemId" value="S1_5_Union_Find" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -379,9 +374,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -389,11 +381,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="S1_foundation.S1_5_Union_Find.Quick_Union" />
       <recent name="S2_Sorting.S2_4_4_6_IndexMinPQ" />
       <recent name="S1_foundation.S1_3_BagQueueStack.S1_3_3_10_Bag" />
       <recent name="S1_foundation.S1_3_BagQueueStack.S1_3_3_9_Queue" />
       <recent name="S1_foundation.S1_3_BagQueueStack.S1_3_3_8_Stack" />
-      <recent name="S1_foundation.S1_3_BagQueueStack.S1_3_2_5_ResizingArrayStack" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -408,27 +400,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Quick_Find_Test">
-    <configuration default="false" name="BFSTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="S4_Graphs.S4_1_Undirected_Graph.S4_1_5_Breadth_First_Search.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="S4_Graphs.S4_1_Undirected_Graph.S4_1_5_Breadth_First_Search.BFSTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm-Learn" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Quick_Find_Test (1)">
     <configuration default="false" name="CCTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -497,6 +469,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="S1_foundation.S1_5_Union_Find.Quick_Find.Quick_Find_Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithm-Learn" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Quick_Find_Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="S1_foundation.S1_5_Union_Find.Quick_Union.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="S1_foundation.S1_5_Union_Find.Quick_Union.Quick_Find_Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -727,19 +719,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.BFSTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CCTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CycleTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TwoColorTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Quick_Find_Test" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CCTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CycleTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TwoColorTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Quick_Find_Test" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Quick_Find_Test (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Quick_Find_Test" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TwoColorTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CycleTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CCTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BFSTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Quick_Find_Test (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Quick_Find_Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TwoColorTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CycleTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CCTest" />
       </list>
     </recent_temporary>
   </component>
@@ -758,7 +750,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="952" y="0" width="976" height="1038" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -769,13 +760,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36514983" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36514983" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36951983" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37473905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -809,20 +800,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_4_6_IndexMinPQ/IndexMinPQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1794">
-          <caret line="90" column="5" lean-forward="false" selection-start-line="74" selection-start-column="4" selection-end-line="90" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_5_HeapSort/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/S2_Sorting/S2_4_4_2_MaxPriorityQueue/MaxPQ.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -1007,10 +984,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="805">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding>
-            <element signature="e#607#608#0" expanded="false" />
-            <element signature="e#648#649#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1018,7 +991,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1027,10 +999,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-          <folding>
-            <element signature="e#2807#2808#0" expanded="false" />
-            <element signature="e#2841#2842#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1038,7 +1006,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="18" column="2" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="18" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1046,7 +1013,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="36" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1062,9 +1028,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
           <caret line="18" column="2" lean-forward="false" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1072,9 +1035,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="667">
           <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1082,25 +1042,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
           <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1139#1140#0" expanded="false" />
-            <element signature="e#1171#1172#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_1_Undirected_Graph/S4_1_6_DFS_Cycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_1_Undirected_Graph/S4_1_6_DFS_Cycle.java" />
     <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_1_Undirected_Graph/S4_1_6_Connected_Components/CC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
+        <state relative-caret-position="690">
           <caret line="30" column="44" lean-forward="false" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
           <folding>
             <element signature="e#841#842#0" expanded="true" />
@@ -1114,7 +1062,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_1_Undirected_Graph/S4_1_6_Connected_Components/CCTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="345">
           <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1163,6 +1111,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/UF.java" />
+    <entry file="file://$PROJECT_DIR$/src/S3_Searching/S3_2_Bianry_Search_Trees/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6463">
+          <caret line="316" column="1" lean-forward="false" selection-start-line="316" selection-start-column="1" selection-end-line="316" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/Quick_Find/Quick_Find_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm-Learn.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -1171,42 +1136,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/UF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/S3_Searching/S3_2_Bianry_Search_Trees/BST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3034">
-          <caret line="316" column="1" lean-forward="false" selection-start-line="316" selection-start-column="1" selection-end-line="316" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/Quick_Find/Quick_Find_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/Quick_Find/UF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="586">
-          <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+        <state relative-caret-position="642">
+          <caret line="32" column="16" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="32" selection-end-column="16" />
           <folding>
             <element signature="e#339#340#0" expanded="true" />
             <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/Quick_Union/UF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding>
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/S1_foundation/S1_5_Union_Find/Quick_Union/Quick_Find_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
