@@ -28,7 +28,7 @@ public class Graph {
         for (int i = 0; i < e; i++) {
             int v = in.nextInt();
             int w = in.nextInt();
-            addEage(v, w);
+            addEdge(v, w);
         }
     }
     //复制别的图
@@ -50,7 +50,7 @@ public class Graph {
         return E;
     }
     //添加边
-    public void addEage(int v, int w) {
+    public void addEdge(int v, int w) {
         adj[v].add(w);
         adj[w].add(v);
         E++;
