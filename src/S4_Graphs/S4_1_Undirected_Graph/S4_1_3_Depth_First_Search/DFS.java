@@ -9,6 +9,7 @@ import java.util.Stack;
 /**
  * Created by Brian Lee on 2018/9/4.
  * 某图中s可到达的顶点与路径
+ * 包含了path
  */
 public class DFS {
     private boolean[] marked;   //此顶点上是否调用过dfs()

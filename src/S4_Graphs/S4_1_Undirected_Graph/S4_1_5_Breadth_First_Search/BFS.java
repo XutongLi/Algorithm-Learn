@@ -9,6 +9,7 @@ import java.util.Stack;
 /**
  * Created by Brian Lee on 2018/9/5.
  * 找出与起点连通的所有顶点以及到各顶点的最短路径
+ * 包含了path
  */
 public class BFS {
     private boolean[] marked;   //到达该顶点的最短路径是否已知
