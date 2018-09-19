@@ -82,6 +82,8 @@ Code for **learning Algorithm(Sedgewick)** and other **practice**.
 
 [深度优先搜索判断二分图](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S4_Graphs/S4_1_Undirected_Graph/S4_1_6_DFS_TwoColor) 
 
+[有向图](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S4_Graphs/S4_2_Directed_Graph/S4_2_2_DiGraph) 
+
 ### S5 String
 
 [暴力字符串查找算法](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce)
