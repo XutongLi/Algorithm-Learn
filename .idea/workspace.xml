@@ -26,37 +26,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiDFS.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiDFS/DiDFS.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-              <folding>
-                <element signature="e#656#657#0" expanded="true" />
-                <element signature="e#688#689#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BFS.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_1_Undirected_Graph/S4_1_5_Breadth_First_Search/BFS.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
               <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DiDFSTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiDFS/DiDFSTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="42" column="10" lean-forward="false" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -78,8 +53,8 @@
       <file leaf-file-name="DiDFSPath.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiDFSPath/DiDFSPath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="46" column="5" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
+            <state relative-caret-position="742">
+              <caret line="47" column="1" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="47" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#754#755#0" expanded="true" />
@@ -89,16 +64,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiBFSPath.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DiCycle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_4_DiCycle/DiCycle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="27" column="32" lean-forward="false" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1162#1163#0" expanded="true" />
+                <element signature="e#1198#1199#0" expanded="true" />
+                <element signature="e#1237#1238#0" expanded="true" />
+                <element signature="e#1265#1266#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiCycleTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_4_DiCycle/DiCycleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiBFSPath.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiBFSPath/DiBFSPath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            <state relative-caret-position="374">
+              <caret line="48" column="30" lean-forward="false" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1223#1224#0" expanded="true" />
                 <element signature="e#1255#1256#0" expanded="true" />
-                <element signature="e#1286#1287#0" expanded="true" />
                 <element signature="e#1318#1319#0" expanded="true" />
               </folding>
             </state>
@@ -178,6 +180,7 @@
     <setting file="file://$PROJECT_DIR$/src/S3_Searching/S3_2_Bianry_Search_Trees/BSTTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_10_Bag/Bag.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch/Test.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_4_DiCycle/DiCycleTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_1_7_Arithmetic/Evaluate.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_10_Bag/BagTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/S2_Sorting/Others_Bubble_Sort/Bubble.java" root0="SKIP_INSPECTION" />
@@ -247,7 +250,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_4_SequentialSearchST/Test.java" />
         <option value="$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_4_SequentialSearchST/SequentialSearchST.java" />
         <option value="$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_5_BinarySearch/BinarySearchST.java" />
@@ -290,7 +292,6 @@
         <option value="$PROJECT_DIR$/src/S4_Graphs/S4_1_Undirected_Graph/S4_1_3_Depth_First_Search/DFS.java" />
         <option value="$PROJECT_DIR$/src/S4_Graphs/S4_1_Undirected_Graph/S4_1_5_Breadth_First_Search/BFS.java" />
         <option value="$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiDFS/DiDFS.java" />
-        <option value="$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_4_DiCycle/DiCycle.java" />
         <option value="$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiDFS/DiDFS_Nonrecur.java" />
         <option value="$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiDFS/DiDFSTest.java" />
         <option value="$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiDFSPath/DiDFSPath.java" />
@@ -298,6 +299,8 @@
         <option value="$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiBFSPath/DiDFSPathTest.java" />
         <option value="$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiBFSPath/DiBFSPath.java" />
         <option value="$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiBFSPath/DiBFSPathTest.java" />
+        <option value="$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_4_DiCycle/DiCycle.java" />
+        <option value="$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_4_DiCycle/DiCycleTest.java" />
       </list>
     </option>
   </component>
@@ -371,6 +374,10 @@
               <option name="myItemId" value="S4_2_Directed_Graph" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="S4_2_4_DiCycle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -391,10 +398,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="S4_2_Directed_Graph" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="S4_2_3_DiBFSPath" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -476,27 +479,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DiBFSPathTest">
-    <configuration default="false" name="WQUTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="S1_foundation.S1_5_Union_Find.Weighted_Quick_Union.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="S1_foundation.S1_5_Union_Find.Weighted_Quick_Union.WQUTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm-Learn" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.DiCycleTest">
     <configuration default="false" name="DiGraphTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -565,6 +548,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="S4_Graphs.S4_2_Directed_Graph.S4_2_3_DiBFSPath.DiBFSPathTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithm-Learn" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DiCycleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="S4_Graphs.S4_2_Directed_Graph.S4_2_4_DiCycle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="S4_Graphs.S4_2_Directed_Graph.S4_2_4_DiCycle.DiCycleTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -795,19 +798,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.WQUTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DiGraphTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DiDFSTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DiDFSPathTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DiBFSPathTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DiGraphTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DiDFSTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DiDFSPathTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DiBFSPathTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DiCycleTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DiBFSPathTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DiDFSPathTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DiDFSTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DiGraphTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.WQUTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DiCycleTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DiBFSPathTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DiDFSPathTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DiDFSTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DiGraphTest" />
       </list>
     </recent_temporary>
   </component>
@@ -837,7 +840,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6334479" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5383734" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -877,23 +880,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Others/DaysBetweenTwoDays/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="184">
-            <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="-125">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Others/jump/README.md" />
     <entry file="file://$PROJECT_DIR$/src/S3_Searching/S3_1_SymbolTables/S3_1_4_SequentialSearchST/SequentialSearchST.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1152,21 +1138,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_4_DiCycle/DiCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiDFS/DiDFS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
           <folding>
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="false" />
+            <element signature="e#688#689#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1176,7 +1154,7 @@
         <state relative-caret-position="540">
           <caret line="42" column="10" lean-forward="false" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1235,18 +1213,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiDFSPath/DiDFSPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="46" column="5" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiBFSPath/DiBFSPathTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
@@ -1257,16 +1223,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiDFSPath/DiDFSPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="742">
+          <caret line="47" column="1" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="47" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiBFSPath/DiBFSPath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="374">
+          <caret line="48" column="30" lean-forward="false" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1223#1224#0" expanded="true" />
             <element signature="e#1255#1256#0" expanded="true" />
-            <element signature="e#1286#1287#0" expanded="true" />
             <element signature="e#1318#1319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_4_DiCycle/DiCycleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/S4_Graphs/S4_2_Directed_Graph/S4_2_4_DiCycle/DiCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="27" column="32" lean-forward="false" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1162#1163#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
+            <element signature="e#1237#1238#0" expanded="true" />
+            <element signature="e#1265#1266#0" expanded="true" />
           </folding>
         </state>
       </provider>
