@@ -88,6 +88,8 @@ Code for **learning Algorithm(Sedgewick)** and other **practice**.
 
 [有向图DFS Path](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiDFSPath) 
 
+[有向图BFS Path](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S4_Graphs/S4_2_Directed_Graph/S4_2_3_DiBFSPath) 
+
 ### S5 String
 
 [暴力字符串查找算法](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S5_String/S5_3_SubstringSearch/S5_3_2_BruteForce)
