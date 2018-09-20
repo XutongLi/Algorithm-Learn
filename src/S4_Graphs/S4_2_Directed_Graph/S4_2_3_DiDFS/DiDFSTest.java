@@ -8,6 +8,29 @@ import java.util.Scanner;
 
 /**
  * Created by Brian Lee on 2018/9/16.
+ 13 22
+ 4 2
+ 2 3
+ 3 2
+ 6 0
+ 0 1
+ 2 0
+ 11 12
+ 12 9
+ 9 10
+ 9 11
+ 8 9
+ 10 12
+ 11 4
+ 4 3
+ 3 5
+ 7 8
+ 8 7
+ 5 4
+ 0 5
+ 6 4
+ 6 9
+ 7 6
  */
 public class DiDFSTest {
     public static void main(String[] args) {
@@ -17,7 +40,8 @@ public class DiDFSTest {
         int n = in.nextInt();
         for (int i = 0; i < n; i++)
             queue.offer(in.nextInt());
-        DiDFS reachable = new DiDFS(G, queue);
+        //DiDFS reachable = new DiDFS(G, queue);
+        DiDFS_Nonrecur reachable = new DiDFS_Nonrecur(G, queue);
         for (int v = 0; v < G.V(); v++)
             if (reachable.marked(v))
                 System.out.print(v + " ");
