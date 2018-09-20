@@ -2,6 +2,8 @@ package S4_Graphs.S4_2_Directed_Graph.S4_2_4_DiCycle;
 
 import S4_Graphs.S4_2_Directed_Graph.S4_2_2_DiGraph.DiGraph;
 
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Stack;
 
 /**
@@ -44,6 +46,10 @@ public class DiCycle {
         return cycle != null;
     }
     public Iterable<Integer> cycle() {
-        return cycle;
+        Queue<Integer> q = new LinkedList<>();
+        while (!cycle.isEmpty()) {
+            q.offer(cycle.pop());
+        }
+        return q;
     }
 }
