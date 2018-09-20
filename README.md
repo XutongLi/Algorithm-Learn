@@ -22,8 +22,6 @@ Code for **learning Algorithm(Sedgewick)** and other **practice**.
 
 [队列](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S1_foundation/S1_3_BagQueueStack/S1_3_3_9_Queue)
 
-[并查集](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S1_foundation/S1_5_Union_Find) 
-
 ### S2 Sorting
 
 [冒泡排序](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S2_Sorting/Others_Bubble_Sort)
@@ -81,6 +79,8 @@ Code for **learning Algorithm(Sedgewick)** and other **practice**.
 [深度优先搜索判断图是否有环](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S4_Graphs/S4_1_Undirected_Graph/S4_1_6_DFS_Cycle) 
 
 [深度优先搜索判断二分图](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S4_Graphs/S4_1_Undirected_Graph/S4_1_6_DFS_TwoColor) 
+
+[并查集](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S1_foundation/S1_5_Union_Find) 
 
 [有向图](https://github.com/XutongLi/Algorithm-Learn/tree/master/src/S4_Graphs/S4_2_Directed_Graph/S4_2_2_DiGraph) 
 
